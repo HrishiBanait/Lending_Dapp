@@ -139,7 +139,7 @@ The contract enforces these rules:
 
 | Connect | Lender Dashboard |
 |---|---|
-| ![Connect](screenshots/1-connect.png) | ![Lender](screenshots/2-lender-dashboard.png) |
+|![Alt text]("https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205002.png") | ![Alt text]("https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205017.png") |
 
 | Borrower Dashboard | Loan History |
 |---|---|
