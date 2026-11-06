@@ -139,15 +139,12 @@ The contract enforces these rules:
 
 | Connect | Lender Dashboard |
 |---|---|
-|![Alt text](https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205002.png) | ![Alt text]("https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205017.png") |
+|![Alt text](https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205002.png) | ![Alt text](https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205017.png) |
 
 | Borrower Dashboard | Loan History |
 |---|---|
-| ![Borrower](screenshots/3-borrower-dashboard.png) | ![History](screenshots/4-loan-history.png) |
+| ![Alt text](https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205025.png) | ![Alt text](https://github.com/HrishiBanait/Lending_Dapp/blob/main/screenshots/Screenshot%202026-11-06%20205034.png) |
 
-**Contract on Sepolia Etherscan**
-
-![Etherscan](screenshots/5-etherscan.png)
 
 ## Limitations
 
